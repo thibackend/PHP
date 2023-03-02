@@ -1,0 +1,11 @@
+<?php
+session_start();
+$id=$_GET['id'];
+$_SESSION["student"][$id]=
+    [
+    "name"=>$_GET["name"],
+    "email"=>$_GET["email"],
+    "password"=>$_GET["password"] 
+    ];
+header("location:index.php")
+?>

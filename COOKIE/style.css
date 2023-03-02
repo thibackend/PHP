@@ -1,0 +1,15 @@
+.frm{
+    height:fit-content;
+    width:500px;
+    background:rgb(16, 12, 6);
+
+}
+.show{
+    text-align: left;
+    width:500px;
+    height:fit-content;
+    background:pink;
+}
+.show p{
+    text-align: start;
+}

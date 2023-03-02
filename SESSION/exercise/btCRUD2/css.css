@@ -1,0 +1,23 @@
+.frm{
+    position:relative;
+    left: 400px;
+    text-align:center;
+    border-radius: 20px;
+    border:solid 2px;
+    width:300px;
+    height:400px;
+    padding:10px;
+}
+
+.nameatri{
+    position:relative;
+    left:-10px;
+}
+#password{
+    position:relative;
+    left:-10px;
+}
+#id{
+    position:relative;
+    left:10px;
+}

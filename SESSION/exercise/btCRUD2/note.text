@@ -1,0 +1,18 @@
+
+
+
+Ôn tập lại các kiến thức sau:
+
+1. validation:
+    +ràng buộc các input trong form.
+    +ràng buộc các dữ liệu xl có thỏa mản hay không.
+
+
+2. Function:
+    +tạo function để thực hiện CRUD các dữ liệu.
+
+3. mảng:
+
+    + việc  thêm sữa xóa trong mảng:
+        -> dùng session: để thực hiện chuyển trang thuận tiện hơn.
+        
