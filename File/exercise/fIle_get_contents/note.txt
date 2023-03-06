@@ -1,0 +1,7 @@
+
+làm bài tập tìm hiểu thêm về file_get_contents()
+- tìm hiểu về: - cách dùng
+               - hiểu về cách lấy dữ liệu.
+               - cần hiểu về cách chuyển đổimột chút về json_decode();
+               - xem lại cách chuyển sang mảng của chuỗi /t.
+               

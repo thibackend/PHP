@@ -1,0 +1,7 @@
+
+b1: tải công cụ về (webharvy, octoparse)
+b2: thực hiện crawler dât về các trường ở trang web  vn line
+b3: truchs xuất (export)(exel,csv , sdl(Mysql));
+b4: làm sạch dữ liệu cho file đó.
+
+
