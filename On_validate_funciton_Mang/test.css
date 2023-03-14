@@ -1,0 +1,23 @@
+.contarner{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    padding: 6%;
+
+}
+
+.left-conten{
+    padding-left: 50%;
+}
+.ringht-conten{
+    padding: 20%;
+    padding-right: 40%;
+    
+}
+
+.body1{
+    display: flex;
+}
+
+table{
+    border-spacing: 35px;
+}

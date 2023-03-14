@@ -10,7 +10,7 @@ if(isset($_POST['file_name']) and isset($_POST['content']) and $_POST['sm']){
 <html>
     <body>
         <center>
-        <form action="index.php" method="post" class=">
+            <form action="index.php" method="post">
             <input type="text" name="file_name" value="<?php echo $_POST['file_name']?>" placeholder="enter name file" > <br>
             <textarea name="content" id="content" cols="30" rows="3" placeholder="enter content" value="<?php echo $_POST['content']?>"></textarea>
             <br>
